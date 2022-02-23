@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of some transactions in this present Parliament in a letter to a person of quality in the country.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39513</idno>
+            <idno type="STC">Wing E965</idno>
+            <idno type="STC">ESTC R25052</idno>
+            <idno type="EEBO-CITATION">08733640</idno>
+            <idno type="OCLC">ocm 08733640</idno>
+            <idno type="VID">41696</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41696)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1259:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of some transactions in this present Parliament in a letter to a person of quality in the country.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:41696:1"/>
+            <pb n="1" facs="tcp:41696:1"/>
+            <head>An Account of ſome Tranſactions in this preſent Parliament, in a Letter to a Perſon of Quality in the Country.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received yours ten days ſince, but could not ſooner inform you of the <hi>Proceedings of this Parliament;</hi> ſome expected they would have examined and undone all the laſt had done, and that ſeveral of the Members would have refuſed the new Oaths, and taken the old Ones, without naming the King; but in a little time they ſaw their miſtake, and that this truly reputed Church of <hi>England</hi>-Parliament is well pleaſed with their glorious Deliverer from Popery and Slavery, and ſecure that the Church of <hi>England,</hi> as eſtabliſhed by Law, will flouriſh and be ſafe under his Protection.</p>
+            <p>A Noble Duke, who formerly perſonated a ſingularity of Hu<g ref="char:EOLhyphen"/>mour to preſerve himſelf for great <hi>Services,</hi> as yet not arrived to be a Miniſter of <hi>State,</hi> though very active and inſtrumental in preſerving our new Eſtabliſhment, brought in a Bill to <hi>Recog<g ref="char:EOLhyphen"/>nize their Majeſties the Lawful and Rightful King and Queen of theſe Realms, and to declare the Acts of the late Parliament, begun</hi> Feb. 23. 1688. <hi>were, are, and of right ought to be, by the Laws of this Realm;</hi> which certainly (if any thing his Grace undertakes can be ſo) ſeem'd altogether needleſs; for the Bill of Rights Recognized them, and the Votes of the laſt Parliament, having the Authority of Lords <hi>Spiritual</hi> and <hi>Temporal</hi> and <hi>Commons</hi> Aſſembled, as well as the Royal Aſſent, were received for Laws, and the Lives, as well as Eſtates and Liberties of many have been determined ac<g ref="char:EOLhyphen"/>cordingly; therefore this declaring and enacting of them now, in the Opinion of many, ſeemed not only needleſs, but dangerous, as ſtriking at the Foundations and rendring the Authority of the late Meetings queſtionable, as well as the Eſtabliſhment of this Government: For if the Convention, however called without what ſome Men ſtile <hi>Legal Authority,</hi> could make or Vote an Abdication and Vacancy of the Throne, diſpoſe of the Crown, and abrogate the Oaths eſſential to ſuch Meetings, they might ſurely, without the formality of Writs, be created or transformed
+<pb n="2" facs="tcp:41696:2"/>into a Parliament, and be, <hi>de Facto,</hi> a good Parliament, otherwiſe their Majeſties Title is founded only in <hi>Poſſeſſion,</hi> or, which I dare not ſay, <hi>Uſurpation.</hi>
+            </p>
+            <p>In that famous Preſident of <hi>Richard</hi> II. we find 35 Articles of Miſ government charged on him, by a Parliament called by Writ in his own Name, and he by them declared unfit for <hi>Government,</hi> who like a good natured Prince ſubmitted, and reſigned his King<g ref="char:EOLhyphen"/>ſhip, releaſed his Subjects from their Allegiance, and transferred his Right and Title to <hi>Henry</hi> of <hi>Lancaſter,</hi> who thereupon claim'd it, was veſted therein, Recognized and Crowned, held nine Par<g ref="char:EOLhyphen"/>liaments, and his Son <hi>Henry</hi> held as many, and his Grandchild lineally ſucceeded, was Crowned, and held nineteen Parliaments; yet as ſoon as <hi>Edward</hi> IV. claimed his Hereditary Right, all the confirmations of the 3 preceding Kings, amounted to no more than to be owned by the Statute Kings <hi>de Facto, in Deed,</hi> but not <hi>de Jure, of Right.</hi>
+            </p>
+            <p>This ſome fancied would have puzled, or ſlackned proceedings, but it did not conſiſt with the Wiſdom of the Houſe to miſpend their more precious time in untying <hi>Gordian</hi> knots, or to lay much ſtreſs upon ſuch Cobweb Laws, as were ſpun out of the Brains of ſuch a Temporizing Parliament, as that of <hi>Edward</hi> IV. Our more refined Age is not to take Preſidents from our doting An<g ref="char:EOLhyphen"/>ceſtors, but make them. There are always Maximes ſuited to Times, Circumſtances, Convenience, and Neceſſity. In former times diverſity of Religion gave no Byaſs to Revolutions of State; Faction among the Nobility, and Secular Intereſt, and Dubious Titles, or Ambition only diſturbed the Succeſſion of the Crown.</p>
+            <p>But the prevailing conſideration now, among ſome moderate Men, is this, that though they did not contribute to the Revo<g ref="char:EOLhyphen"/>lution, yet they would preſerve it; and though the things done cannot be juſtifyed according to the old Laws of the Land, yet becauſe dangers may attend the return of the late King, they ad<g ref="char:EOLhyphen"/>here to the preſent Government; which reaſons will juſtifie other things, which neither give Credit nor Authority to this; but will oblige us to perſevere in the way we are in, and bid defiance to Repentance, becauſe there may be leſs eaſe and quiet in a new courſe of Life.</p>
+            <p>They who have been active in the Change, and have Depen<g ref="char:EOLhyphen"/>dencies, Offices, and Expectances, muſt not give place to any Scruples, as others may, but muſt think and ſay, <hi>He is Lawful and Rightful King;</hi> for although according to our Modern Poli<g ref="char:EOLhyphen"/>ticks,
+<pb n="3" facs="tcp:41696:2"/>a King <hi>de Facto</hi> ſignifies an Uſurper; yet the P. of <hi>Orange</hi>'s concurrence, and agreement with the 3 Eſtates of the Kingdom, can create a <hi>Right:</hi> Beſides, when we ſee ſo many, upon this conſideration, buy or take Offices, Employments, and Honours under this Government, it muſt be a ſufficient demonſtration that the Acts of the late Parliament need no Confirmation, but ſtand firm upon an Original Right; and that it may clearly be proved beyond doubt, that the People's Sovereign Power may fill, as well as declare the Throne Vacant; ſo that it is of no me<g ref="char:EOLhyphen"/>ment to inſiſt upon Hereditary Right, or the examples of former times, or the Authority of Ancient Laws.</p>
+            <p>Theſe matters occaſioned ſome days debate in the Houſe of <hi>Lords;</hi> but the Bill had an unexpected diſpatch among the <hi>Com<g ref="char:EOLhyphen"/>mons,</hi> who did not ſcruple the Words <hi>are and were,</hi> as ſome pro<g ref="char:EOLhyphen"/>teſting Lords had done; for the Authority of both Houſes juſti<g ref="char:EOLhyphen"/>fies the good Senſe and Engliſh of whatever paſſeth with them; and there is no obligation, I know of, upon the Members to gra<g ref="char:EOLhyphen"/>tifie the Captious with an explication of their meaning, ſince the Nation reaps the benefit of their Wiſe reſults.</p>
+            <p>There is great reaſon that they who are intruſted with our Re<g ref="char:EOLhyphen"/>ligion, our Eſtates, our Liberties, and Lives, ſhould Recognize <hi>Him</hi> whom ſo many invited, and ſo few reſiſted, whom they have enabled to recover one of the four Provinces of <hi>Ireland,</hi> and will ſoon Conquer the reſt, and Triumph over <hi>France</hi> it ſeif, which aſſiſts the Rebels there. In ſhort, the Convention repreſented the whole Body of the People; they declared, or created, the P. of <hi>Orange</hi> King, and he being once conſtituted the Head, there muſt reſult as proper a <hi>Leviathan</hi> of Government, as Mr. <hi>Hobs</hi> could deſcribe, and I think the Authority of ſuch a Writer ſhould ſa<g ref="char:EOLhyphen"/>tisfie all Men where the Supreme Power reſides.</p>
+            <p>Yet notwithſtanding what I have hitherto Writ, there were many, who thinking the King no Wiſer than themſelves, judged he would not have paſſed the Bill, ſince, in their Opinion, it being built upon a Republican Foundation, might be a Preſident here<g ref="char:EOLhyphen"/>after to ſome popular <hi>Lord,</hi> who being Maſter of the Art of de<g ref="char:EOLhyphen"/>ceiving, alluring, and cajoling the People, may arive to be the Captain of the <hi>Mob,</hi> and thence be incouraged to ſend out his Circular Letters for Election of a Repreſentative, which having the ſame fondneſs for him that the Chooſers have, (the fitteſt and beſt Men in ſuh caſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> often declining the imployment,) they who were choſen might Vote an Abdication, and Vacancy, and Elect another King.</p>
+            <pb n="4" facs="tcp:41696:3"/>
+            <p> But, I think, we have little reaſon to fear this in our preſent Maſter's days, who is ſo well ſerved by Forreigners.</p>
+            <p>Surely they are miſtaken, who ſay, that the Act of Settlement, which entailed the Crown, is repealed by the Recognition; for it is eſtabliſhed by the latter clauſe otherwiſe, by <hi>Recognizing that their Majeſties were, are, and of Right ought to be, by the Laws of this Realm, our Sovereign Liege Lord and Lady, King and Queen,</hi> &amp;c. Her Royal Highneſs the Princeſs of <hi>Danmark,</hi> who paſſed, reſigned, or diſclaimed her Right, by prefering her dear Siſters Husband to the Throne, may be excluded, with her hopeful <hi>Iſſue,</hi> from the Succeſſion; which otherwiſe might devolve to the King's Heirs; eſpecially, if our King were capable of an unjuſt Act; ſince it might be ſuſpected, under any other Prince, that where many Foreign Troops have the Guard of a Country, they will be better affected to, and readilier aid a Foreign Prince, than any of the Princes of the Blood, who are Natives.</p>
+            <p>I dare not go any further in the account I have from the <hi>Houſe</hi> of <hi>Lords,</hi> nor tell the cenſures paſt upon them, leaſt I ſhould encourage the <hi>Enemies</hi> of our <hi>Gracious King.</hi>
+            </p>
+            <p>I forbear alſo to give you an account of the <hi>Heats</hi> in the <hi>Houſe</hi> of <hi>Commons,</hi> their Zeal for the <hi>Church</hi> of <hi>England,</hi> and the rejecting the <hi>Oath</hi> of <hi>Abjuration,</hi> which was an odd project, and I wonder the <hi>King</hi>'s Friends ſo much favoured it, which ſeem'd a <hi>fatal blow</hi> to our <hi>Liberties;</hi> and, in the Opinion of a moſt <hi>Reverend Divine,</hi> was a ſetting our ſelves againſt <hi>Providence,</hi> and I am ſure was deſtructive to our <hi>Liberties,</hi> ſince the Monarchy is <hi>Elective,</hi> as by the <hi>chuſiing a Foreign Prince</hi> is evident, it would be very hard to <hi>incapacitate</hi> a <hi>Native,</hi> for if a <hi>Toy</hi> ſhould take the People in the Head again, to think of King <hi>JAMES,</hi> (which would not be ſo ſtrange as the <hi>Abdication,</hi>) this <hi>Oath</hi> would have put the Nega<g ref="char:EOLhyphen"/>tive upon the People, who commonly are troubled with the Di<g ref="char:EOLhyphen"/>ſeaſe, called, <hi>Nitimur in vetitum,</hi> which would mad them that they could not have their Wills.</p>
+            <p>But leaving theſe matters, I will touch upon ſome things done by the <hi>Houſe</hi> of <hi>Commons,</hi> which ſeems to concern you and all the Preeholders of <hi>England</hi> in their Eſtates, for that they have libe<g ref="char:EOLhyphen"/>rally given the King Money; but you muſt not think them too <hi>free</hi> in their <hi>ſupply;</hi> nor blame them for taking no more notice of the <hi>multitude</hi> of <hi>Strangers,</hi> who muſt be maintained at our <hi>charge,</hi> ſince ſo few <hi>Engliſh-Men</hi> are fit for, or to be truſted with the defence of the <hi>Government,</hi> or our <hi>Country.</hi> Indeed, the <hi>concern</hi> for <hi>Religion,</hi> and
+<pb n="5" facs="tcp:41696:3"/>our obligations to the Preſerver thereof, ought to make us leſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tender, for the Prorogation of the laſt Parliament, the very day the Money Bill was paſſed, and the unexpected Diſſolution, (be<g ref="char:EOLhyphen"/>fore the Act of Indemnity was finiſhed, or ſeveral Grievances re<g ref="char:EOLhyphen"/>dreſſed,) meerly to draw on this Parliament to give more Taxes, and own the Authority of the laſt.</p>
+            <p>In King <hi>Charles</hi> the Second's time, we found <hi>ſeveral things</hi> tacked to the <hi>Money Bill,</hi> leaſt they ſhould <hi>give to,</hi> without <hi>taking from</hi> the <hi>Crown:</hi> But the <hi>Houſe</hi> is now more <hi>generous,</hi> becauſe we have a <hi>Prince</hi> we can <hi>truſt</hi> with all that is moſt valuable, and they are abundantly ſatisfyed with the <hi>ſeveral ways</hi> there are to ex<g ref="char:EOLhyphen"/>pend the <hi>Treaſure</hi> raiſed and granted: They know what <hi>Summs</hi> have paſſed the <hi>Texel,</hi> the <hi>Pampus,</hi> the <hi>Moſell, Elb,</hi> and the <hi>Rhine;</hi> how <hi>much</hi> is ſent to <hi>Copenhagen,</hi> and <hi>Berlin,</hi> beſides what Count <hi>Conningſeck</hi> expected, and the <hi>Dutch</hi> yet want, the equipping of the <hi>F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eet,</hi> the <hi>diſcharge</hi> of the vaſt Arrears to it, and the Army, and the growing charge to both, till <hi>Ireland</hi> be <hi>reduced,</hi> and <hi>Scotland</hi> through<g ref="char:EOLhyphen"/>ly ſubjected to his Majeſty's <hi>Obedience;</hi> ſo that we are not to <hi>Mur<g ref="char:EOLhyphen"/>mur</hi> at their <hi>liberal Aids,</hi> ſeeing ſome <hi>compute</hi> that no leſs then <hi>five Millions in a Year can defray theſe unavoidable Charges,</hi> which would exhauſt the Revenue of <hi>Potoſa,</hi> if it were not in the <hi>Hands</hi> of <hi>ex<g ref="char:EOLhyphen"/>traordinary Managers.</hi>
+            </p>
+            <p>If we may believe the <hi>publick account,</hi> given us in the <hi>Foreign In<g ref="char:EOLhyphen"/>telligences,</hi> we may compute how great a <hi>Charge</hi> the whole muſt be, from that Negotiation of Mr. <hi>Cox</hi> at <hi>Zurick</hi> for the Aid of 4000 <hi>Suiſſers,</hi> contracted for there; which as is expreſſed, is, that near upon 200000 <hi>l. Engliſh</hi> muſt be paid, the one <hi>half</hi> down, the other in two <hi>equal portions</hi> ſome time after, as a <hi>cautio<g ref="char:EOLhyphen"/>nary pawn</hi> for performance of <hi>Covenants,</hi> which is to be depoſited in the Treaſury Chamber of their States, with many other <hi>circum<g ref="char:EOLhyphen"/>ſtances</hi> too tedious to relate, whereby we may learn how much muſt be <hi>drein'd</hi> from us by <hi>Foreign Troops,</hi> which we might fear would prolong the <hi>War extravagantly,</hi> if they were not ſuch as <hi>our King</hi> hath <hi>choſen.</hi>
+            </p>
+            <p>I know this galls the <hi>Country,</hi> which conſiders the <hi>decay</hi> of <hi>Trade,</hi> and <hi>loſſes</hi> at <hi>Sea,</hi> and that while our <hi>Traffick</hi> was as <hi>free</hi> and <hi>profitable</hi> as ever it had been known; yet for near 15 years by paſt, there were neither <hi>Subſidies, Polls,</hi> or <hi>Taxes:</hi> But to <hi>ballance</hi> this we muſt conſider, that we have a <hi>new</hi> and <hi>better</hi> Government, which being <hi>haſtily,</hi> though <hi>neceſſarily</hi> raiſed, requires <hi>extraordinary ſupports,</hi> to ſecure it from the fate other <hi>new Buildings have had,</hi> leaſt by its
+<pb n="6" facs="tcp:41696:4"/>
+               <hi>fall</hi> it <hi>craſh</hi> thoſe who promiſe themſelves ſecurity under it.</p>
+            <p>Upon theſe Conſiderations, and for the ſake of thoſe <hi>brave Pa<g ref="char:EOLhyphen"/>triots,</hi> who were the <hi>Contrivers</hi> and <hi>Architects</hi> of this <hi>great Structure,</hi> we muſt not think <hi>Taxes any Charge.</hi> The <hi>ſucceſs</hi> of this Summer may <hi>recompenſe</hi> all, eſpecially, if according to his <hi>Promiſe,</hi> and <hi>de<g ref="char:EOLhyphen"/>clared Reſolution,</hi> our <hi>Godly Sovereign</hi> will <hi>adventure</hi> to <hi>Ireland,</hi> no doubt, but, according to the example of <hi>England,</hi> it will <hi>ſubmit,</hi> or be <hi>eaſily reduced;</hi> from whence he may paſs to the <hi>Conqueſt</hi> of <hi>France,</hi> and become the <hi>Emperor</hi> of the <hi>Weſt,</hi> or the <hi>firſt Prince</hi> in the <hi>fifth Monarchy,</hi> and the <hi>destroyer</hi> of <hi>Antichriſt; which the Great Great Grandchild of the old</hi> Brittiſh Merlin, <hi>the Reverend Biſhop of St.</hi> Aſ. <hi>can make out, by his own Dreams,</hi> Daniel<hi>'s Viſion, or the Re<g ref="char:EOLhyphen"/>velations.</hi>
+            </p>
+            <p>But if theſe <hi>Glorious Things</hi> ſhould not happen in our <hi>Times,</hi> we have our <hi>Religion ſecured,</hi> ſo that none can hurt or <hi>deſtroy</hi> it but our ſelves; for indeed we have ſo <hi>dreſt</hi> and <hi>made it</hi> our own, that if ſome <hi>Reverend Fathers</hi> were not <hi>Sponſors,</hi> we ſhould think it changed; for the <hi>old faſhioned Church</hi> of <hi>England-Men</hi> ſay, it is not that which was at the firſt <hi>Reformation,</hi> nor what our <hi>Forefathers</hi> or <hi>Primitive Chriſtians</hi> profeſſed.</p>
+            <p>But ſo long as we have our <hi>Religion</hi> as it is, let our <hi>Ships,</hi> our <hi>Trade,</hi> our <hi>Eſtates, Lives,</hi> and <hi>Liberties</hi> go which way they will, we cannot be <hi>unhappy,</hi> having the ſame <hi>evidence</hi> and <hi>aſſurance</hi> for our <hi>Country,</hi> ſome <hi>good Men</hi> haue had for their own <hi>Salvation:</hi> And if <hi>Hurricanes wreck</hi> our <hi>Ships, peſtilential Diſeaſes deſtroy</hi> our <hi>Forces</hi> by <hi>Sea</hi> and <hi>Land,</hi> our <hi>Powder-Mills</hi> be <hi>blown up,</hi> whereby, beſides the loſs of ſo great a <hi>proportion</hi> of that ſo <hi>neceſſary Commodity,</hi> and ſome <hi>lives,</hi> (at which our <hi>Religious Q.</hi> was ſo affrighted:) If the <hi>French</hi> take our <hi>Ships,</hi> and the <hi>Dutch</hi> our <hi>Trade,</hi> they are to be thought <hi>ac<g ref="char:EOLhyphen"/>dents,</hi> and <hi>misfortunes,</hi> or any thing beſides marks of the Divine diſpleaſure, whoſe favour we have Enſured by taking ſo great <hi>care,</hi> and doing ſuch <hi>extraordinary</hi> things for his <hi>Honour,</hi> and the <hi>preſervation</hi> of his <hi>Truth.</hi>
+            </p>
+            <p>Let not <hi>preſſing</hi> Men be compared to <hi>ſpiriting,</hi> and <hi>kidnapping,</hi> nor <hi>impriſoning</hi> Men ſo <hi>Preſt</hi> in the <hi>Round-houſes</hi> or <hi>Goals,</hi> nor <hi>forcing</hi> Women to attend the <hi>Camp,</hi> as <hi>Laundreſſes, Nurſes,</hi> &amp;c. be thought any <hi>breach</hi> of our <hi>Engliſh Liberties.</hi> We know <hi>Neceſſity hath no. Law;</hi> Old <hi>Forms</hi> muſt not hinder our <hi>Safety.</hi> It is our our <hi>comfort</hi> that our <hi>neceſſity</hi> was our <hi>choice,</hi> and we cannot reaſonably complain of any but our ſelves; which for good <hi>Reaſons</hi> we ought not to do, leaſt it ſhould look like <hi>diſcontent,</hi> or <hi>inconſtancy,</hi> though if the
+<pb n="7" facs="tcp:41696:4"/>half of our preſent <hi>Burthens</hi> had been <hi>Impoſed,</hi> or <hi>threatned,</hi> by the Abdicated King, it would have been intollerable.</p>
+            <p>I cannot forbear condemning ſome, who ſtudying the <hi>Improve<g ref="char:EOLhyphen"/>ment</hi> of their <hi>Country,</hi> made the <hi>increaſe</hi> of <hi>Inhabitants neceſſary</hi> there<g ref="char:EOLhyphen"/>to, and yet <hi>complain</hi> of <hi>Foreigners</hi> coming in; for though we want many thouſand <hi>Mouths</hi> to ſpend the <hi>product</hi> of our <hi>Country,</hi> which were ſent to <hi>Scotland, Ireland,</hi> and our <hi>Plantations;</hi> yet this <hi>defect</hi> is ſupplyed with the <hi>better,</hi> and <hi>more numerous ſupply</hi> of <hi>Danes, Dutch,</hi> and <hi>Strangers</hi> of other <hi>Nations,</hi> with their <hi>Wives</hi> and <hi>Children;</hi> ſo that we are in hopes, though we may want <hi>Natives,</hi> yet we ſhall not want <hi>numbers</hi> of <hi>Inhabitants,</hi> even ſuch as will eaſe us of our <hi>cares,</hi> and <hi>hazards</hi> of <hi>Trade</hi> and <hi>War.</hi> Our <hi>courteous</hi> and <hi>civilized Neighbours</hi> will <hi>Fight</hi> for, and <hi>defend</hi> us, will <hi>Trade</hi> for, and <hi>ſupply</hi> us; and thoſe <hi>Commodities</hi> which, with danger of croſing the <hi>Seas,</hi> we fetch from all parts of the <hi>World,</hi> may be brought us from <hi>Holland,</hi> and our <hi>Country-Men</hi> may be trained to <hi>Husbandry;</hi> and when our running <hi>Caſh</hi> is gone, we may ſupply our want of <hi>Mony</hi> by the old way of <hi>Trade,</hi> and <hi>Traffick</hi> by <hi>exchange</hi> of <hi>Com<g ref="char:EOLhyphen"/>modities.</hi>
+            </p>
+            <p>And indeed more <hi>Foreign Forces</hi> will be neceſſary to keep us poor, till we are better <hi>accuſtomed</hi> to, and <hi>prepared</hi> to relinquiſh that too long, yet Factious <hi>Pride,</hi> whereby we have been ſo un<g ref="char:EOLhyphen"/>eaſie to our <hi>Kings,</hi> and we are not like to quit that <hi>Vice,</hi> which <hi>Peace</hi> and <hi>Plenty</hi> hath Nurſed us in, till we are brought to ſome degree of <hi>Slavery. Poverty</hi> will keep of <hi>Envy,</hi> and <hi>Popiſh Emiſſaries</hi> will no more trouble us, when we are well ſettled, than <hi>Bees</hi> do the <hi>Muſtard Pot.</hi>
+            </p>
+            <p>So long as our Religious <hi>King</hi> and <hi>Queen</hi> encourage long <hi>Praeyers</hi> before <hi>Sermons,</hi> and like <hi>Preaching</hi> ſo well, as to have <hi>Afternoon-Sermons</hi> at <hi>White-Hall,</hi> though he be forced to keep many <hi>Papiſts</hi> in pay, and hath been <hi>reconciled</hi> to, and <hi>communicated,</hi> as ſome confidently <hi>affirm,</hi> with the Church of <hi>Rome;</hi> we muſt not doubt but he hath cleared himſelf of all his Engagements of that kind to the late <hi>Pope,</hi> and is wholly in the true <hi>Protestant Intereſt,</hi> having allowed the deprivation of the <hi>Biſhops,</hi> and <hi>wilful Clergy</hi> in <hi>Scotland,</hi> aboliſhed <hi>Epiſcopacy</hi> it ſelf, and we may reaſonably expect the like <hi>Settlement</hi> and <hi>Reformation</hi> here, after he hath re<g ref="char:EOLhyphen"/>duced <hi>Ireland,</hi> and expelled his <hi>Rebellious FATHER</hi> out of that part of his <hi>Dominions:</hi> And if we ſupply him with Money enough, he will be Victorious over the <hi>French,</hi> and extinguiſh all hopes of his Enemies.</p>
+            <pb n="8" facs="tcp:41696:5" rendition="simple:additions"/>
+            <p> Our late <hi>Kings</hi> have been ſo unfortunate with that ancient Motto, <hi>Dieu &amp; mon Droit,</hi> as they claimed the Government from <hi>God and their Right,</hi> that our Wiſe <hi>King</hi> had no reaſon to keep it; but being reſolved to ſupport us by his own Arm and Intereſt, he hath not only covered ſome of the <hi>Royal Arms</hi> of <hi>England</hi> with his <hi>Eſchucheon of Pretence;</hi> but, as a Motto of better Proof, has ſubſtituted <hi>his,</hi> inſtead of the other, and the <hi>Waggons</hi> carry upon them theſe Words, <hi>Je meinteindra: I will maintain it.</hi> And this Fami<g ref="char:EOLhyphen"/>ly, which from a ſmall <hi>Principality,</hi> attained to the Dignity of <hi>Stad<g ref="char:EOLhyphen"/>holder.</hi> is in him advanced to poſſeſs a Title to 4 Crowns, which he and his Poſterity <hi>will maintain;</hi> and we have great cauſe to think our ſelves happy under his Government, <hi>who adventured his Life and Fertunes to deliver us from Popery and Slavery, and will again hazard his Sacred Perſon,</hi> an Infirm Body, and Great Soul, <hi>for our Preſervation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41696:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
